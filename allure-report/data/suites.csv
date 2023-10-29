@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Oct 28 10:55:03 IST 2023","Sat Oct 28 10:55:33 IST 2023","30294","testcases","test_main","Testherokuapp","","","test_delete",""
+"passed","Sat Oct 28 10:54:21 IST 2023","Sat Oct 28 10:54:21 IST 2023","445","testcases","test_main","Testherokuapp","","","test_login",""
+"passed","Sat Oct 28 10:54:21 IST 2023","Sat Oct 28 10:54:56 IST 2023","34920","testcases","test_main","Testherokuapp","","","test_contact_details",""
+"passed","Sat Oct 28 10:54:56 IST 2023","Sat Oct 28 10:55:03 IST 2023","6968","testcases","test_main","Testherokuapp","","","test_contact",""

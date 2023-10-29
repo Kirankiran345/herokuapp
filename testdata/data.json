@@ -1,0 +1,41 @@
+{
+  "data1": {
+    "fname": "kiran",
+    "lname": "kumar",
+    "dob": "2000/12/31",
+    "email": "kiranlm04@gmail.com",
+    "phone_number": "9108554781",
+    "adress1": "malur",
+    "adress2": "kolar",
+    "city": "malur",
+    "post_code": "563130",
+    "state": "karnataka",
+    "country": "india"
+  },
+  "data2": {
+    "fname": "suraj",
+    "lname": "kumar",
+    "dob": "1999/07/23",
+    "email": "surajlm070@gmail.com",
+    "phone_number": "9108554781",
+    "adress1": "rajajinagara",
+    "adress2": "mandya",
+    "city": "bangalore",
+    "post_code": "563130",
+    "state": "karnataka",
+    "country": "india"
+  },
+  "data3": {
+    "fname": "manoj",
+    "lname": "kumar",
+    "dob": "2000/04/25",
+    "email": "manojT@gmail.com",
+    "phone_number": "9108554781",
+    "adress1": "hosur",
+    "adress2": "dommasandra",
+    "city": "bangalore",
+    "post_code": "563130",
+    "state": "karnataka",
+    "country": "india"
+  }
+}
